@@ -73,7 +73,7 @@ CREATE TABLE Frentes (
 ## ▶️ Como Executar o Projeto
 
 ``` bash
-git clone https://github.com/seu-usuario/python-api-to-db.git
+git clone git@github.com:Nahtanm/python-api-to-db.git
 cd python-api-to-db
 
 python -m venv venv
